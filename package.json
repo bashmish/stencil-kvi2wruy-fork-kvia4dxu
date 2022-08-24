@@ -1,0 +1,8 @@
+{
+  "name": "@wcd/bashmish.stencil-kvi2wruy-fork-kvia4dxu",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve H0L9BVj9tOy66B7NRYg8 --open"
+  },
+  "dependencies": {}
+}
